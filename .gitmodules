@@ -1,0 +1,3 @@
+[submodule "intro-to-rails-challenge"]
+	path = intro-to-rails-challenge
+	url = https://github.com/aus-red-pandas-2016/intro-to-rails-challenge.git
